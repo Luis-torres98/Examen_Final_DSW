@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Negocios2021ModelStoreContainer" CdmEntityContainer="Negocios2021Entities">
+    <EntitySetMapping Name="cliente">
+      <EntityTypeMapping TypeName="Negocios2021Model.cliente">
+        <MappingFragment StoreEntitySet="cliente">
+          <ScalarProperty Name="IdTrabajador" ColumnName="IdTrabajador" />
+          <ScalarProperty Name="Apellidos" ColumnName="Apellidos" />
+          <ScalarProperty Name="Nombres" ColumnName="Nombres" />
+          <ScalarProperty Name="Edad" ColumnName="Edad" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="FechaNac" ColumnName="FechaNac" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

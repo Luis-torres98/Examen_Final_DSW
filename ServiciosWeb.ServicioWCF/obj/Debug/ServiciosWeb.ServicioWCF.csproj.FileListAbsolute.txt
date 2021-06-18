@@ -1,0 +1,15 @@
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\ServiciosWeb.ServicioWCF.dll.config
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\ServiciosWeb.ServicioWCF.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\ServiciosWeb.ServicioWCF.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\EntityFramework.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\EntityFramework.SqlServer.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\ServiciosWeb.Datos.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\ServiciosWeb.Datos.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\ServiciosWeb.Datos.dll.config
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\EntityFramework.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\EntityFramework.SqlServer.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\obj\Debug\ServiciosWeb.ServicioWCF.csprojAssemblyReference.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\obj\Debug\ServiciosWeb.ServicioWCF.csproj.CoreCompileInputs.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\obj\Debug\ServiciosWeb.ServicioWCF.csproj.CopyComplete
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\obj\Debug\ServiciosWeb.ServicioWCF.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF\obj\Debug\ServiciosWeb.ServicioWCF.pdb

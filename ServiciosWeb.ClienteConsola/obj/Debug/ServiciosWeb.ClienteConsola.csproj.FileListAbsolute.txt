@@ -1,0 +1,15 @@
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\bin\Debug\ServiciosWeb.ClienteConsola.exe.config
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\bin\Debug\ServiciosWeb.ClienteConsola.exe
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\bin\Debug\ServiciosWeb.ClienteConsola.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\obj\Debug\ServiciosWeb.ClienteConsola.csprojAssemblyReference.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\obj\Debug\ServiciosWeb.ClienteConsola.csproj.CoreCompileInputs.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\obj\Debug\ServiciosWeb.ClienteConsola.exe
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\obj\Debug\ServiciosWeb.ClienteConsola.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\bin\Debug\ServiciosWeb.Datos.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\bin\Debug\EntityFramework.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\bin\Debug\ServiciosWeb.Datos.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\bin\Debug\ServiciosWeb.Datos.dll.config
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\bin\Debug\EntityFramework.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ClienteConsola\obj\Debug\ServiciosWeb.ClienteConsola.csproj.CopyComplete

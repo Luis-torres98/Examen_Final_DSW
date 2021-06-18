@@ -1,0 +1,71 @@
+﻿@model IEnumerable<ServiciosWeb.Dominio.Cliente>
+
+@{
+    ViewBag.Title = "Index";
+}
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+<h2>
+
+    Listado de Clientes
+    <br />
+    <br />
+
+    <a href="@Url.Action("Nuevo","Cliente")" class="btn btn-primary right">Nuevo</a>
+    <br />
+</h2>
+
+
+<table class="table">
+    <tr style="font-family: 'Fjalla One', sans-serif; font-size: 1.3em ">
+        <th >
+            ID
+        </th>
+        <th>
+            Apellidos
+        </th>
+        <th>
+            Nombres
+        </th>
+        <th>
+            Edad
+        </th>
+        <th>
+            Dirección
+        </th>
+        <th>
+            Fecha de Nacimiento
+        </th>
+        <th>Acciones</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdTrabajador)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellidos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombres)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Edad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaNac)
+            </td>
+            <td>
+                <a href="@Url.Action("Actualizar","Cliente", new { id=item.IdTrabajador })" class="btn btn-success right">Actualizar</a>
+                <a href="@Url.Action("Eliminar","Cliente", new { id=item.IdTrabajador })" class="btn btn-danger right">Eliminar</a>
+                <a href="@Url.Action("Detalle","Cliente", new { id=item.IdTrabajador })" class="btn btn-primary right">Detalle</a>
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,40 @@
+﻿@model ServiciosWeb.Dominio.Cliente
+
+@{
+    ViewBag.Title = "Nuevo";
+}
+
+<h2>Actualizar Cliente</h2>
+<hr />
+
+<form method="post" action="@Url.Action("Actualizar","Cliente")">
+    <div class="form-group">
+        <label>ID</label>
+        @Html.TextBoxFor(x => x.IdTrabajador, new { @class = "form-control",@readonly="readonly" })
+    </div>
+    <div class="form-group">
+        <label>Nombre</label>
+        @Html.TextBoxFor(x => x.Nombres, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Apellido</label>
+        @Html.TextBoxFor(x => x.Apellidos, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Edad</label>
+        @Html.TextBoxFor(x => x.Edad, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Dirección</label>
+        @Html.TextBoxFor(x => x.Direccion, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Fecha</label>
+        @Html.TextBoxFor(x => x.FechaNac, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <input type="submit" class="btn btn-success" value="Enviar" />
+        <a href="@Url.Action("Index","Cliente")"></a>
+    </div>
+
+</form>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Negocios2021Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="cliente">
+    <Key>
+      <PropertyRef Name="IdTrabajador" />
+    </Key>
+    <Property Name="IdTrabajador" Type="Int32" Nullable="false" />
+    <Property Name="Apellidos" Type="String" MaxLength="120" FixedLength="false" Unicode="false" />
+    <Property Name="Nombres" Type="String" MaxLength="120" FixedLength="false" Unicode="false" />
+    <Property Name="Edad" Type="Int32" />
+    <Property Name="Direccion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="FechaNac" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="Negocios2021Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="cliente" EntityType="Self.cliente" />
+  </EntityContainer>
+</Schema>

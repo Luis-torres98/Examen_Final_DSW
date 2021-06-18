@@ -1,0 +1,15 @@
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\bin\ServiciosWeb.ServicioWCF2.dll.config
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\bin\ServiciosWeb.ServicioWCF2.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\bin\ServiciosWeb.ServicioWCF2.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\obj\Debug\ServiciosWeb.ServicioWCF2.csproj.CoreCompileInputs.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\obj\Debug\ServiciosWeb.ServicioWCF2.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\obj\Debug\ServiciosWeb.ServicioWCF2.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\bin\EntityFramework.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\bin\EntityFramework.SqlServer.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\bin\ServiciosWeb.Datos.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\bin\ServiciosWeb.Datos.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\bin\ServiciosWeb.Datos.dll.config
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\bin\EntityFramework.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\bin\EntityFramework.SqlServer.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\obj\Debug\ServiciosWeb.ServicioWCF2.csprojAssemblyReference.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.ServicioWCF2\obj\Debug\ServiciosWeb.ServicioWCF2.csproj.CopyComplete

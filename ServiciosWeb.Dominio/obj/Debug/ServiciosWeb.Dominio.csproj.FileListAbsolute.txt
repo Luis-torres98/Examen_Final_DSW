@@ -1,0 +1,5 @@
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Dominio\bin\Debug\ServiciosWeb.Dominio.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Dominio\bin\Debug\ServiciosWeb.Dominio.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Dominio\obj\Debug\ServiciosWeb.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Dominio\obj\Debug\ServiciosWeb.Dominio.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Dominio\obj\Debug\ServiciosWeb.Dominio.pdb

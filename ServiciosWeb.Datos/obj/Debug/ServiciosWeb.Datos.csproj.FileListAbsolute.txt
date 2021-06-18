@@ -1,0 +1,12 @@
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\ServiciosWeb.Datos.dll.config
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\ServiciosWeb.Datos.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\ServiciosWeb.Datos.pdb
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\EntityFramework.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\EntityFramework.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.csprojAssemblyReference.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.csproj.CoreCompileInputs.cache
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.csproj.CopyComplete
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.dll
+C:\Users\formu\OneDrive\Escritorio\CICLO V\DESARROLLO DE SERVICIOS WEB I\API\ServiciosWeb\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.pdb
